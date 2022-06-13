@@ -1,5 +1,9 @@
 # Covid_19_EDA_and_Forecasting
 
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNTA2NzE1MGEtMmYxMS00ZWI5LWJkNGYtNjUwNGU3NWU3ZjY3IiwidCI6IjBkZmQwNWIzLTdlYjEtNDAyZi1iYzM4LWJkZDU2NmQ3OGExMSIsImMiOjh9&pageName=ReportSection
+
+
+
 The COVID-19 Dataset is provided by Our World in Data, and it is updated daily, including data on confirmed cases, deaths and testing, while also demographics and social measures about each country. In addition, a full codebook is available with a description and source for each variable in the dataset.
 The first thing was to examine the dataset structure and find the “quality” of the data (e.g., presence of missing data, invalid values etc.). In some features correlated with vaccinations and deaths, there are more missing values in the first year of the pandemic (2020), which is not something not expected in the early stages. The Dataset consists of 67 features, which are not all valuable to the performed analysis. After careful inspection, the valuable features are grouped in categories (Location and Date, Covid Cases, Vaccinations Rate, Demographics, Medical and Life Quality).
 
