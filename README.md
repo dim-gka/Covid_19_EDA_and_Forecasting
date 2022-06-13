@@ -15,5 +15,5 @@ ARIMA models provide another approach to time series forecasting. Exponential sm
 
 
 Files
-    covid_data_cleaned3.part1 & covid_data_cleaned3.part2   is the generated .csv from Data Cleansing.ipynb \n
+    covid_data_cleaned3.part1 & covid_data_cleaned3.part2   is the generated .csv from Data Cleansing.ipynb  
     combined_country_data.csv  is the file generated from Covid_Prediction.ipynb
