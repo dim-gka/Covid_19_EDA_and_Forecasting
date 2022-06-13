@@ -14,7 +14,6 @@ Regarding the prediction task
 ARIMA models provide another approach to time series forecasting. Exponential smoothing and ARIMA models are the two most widely used approaches to time series forecasting and provide complementary approaches to the problem. While exponential smoothing models are based on a description of the trend and seasonality in the data, ARIMA models aim to describe the autocorrelations in the data. In the current project, the SARIMA model was selected, which is an ARIMA model with a seasonal component, that better describes the current dataset, due to the seasonal nature of diseases. The findings are presented in the Power BI Dashboard.
 
 
-Files:
-    covid_data_cleaned3.part1 & covid_data_cleaned3.part2   is the generated .csv from Data Cleansing.ipynb
-    
+Files
+    covid_data_cleaned3.part1 & covid_data_cleaned3.part2   is the generated .csv from Data Cleansing.ipynb \n
     combined_country_data.csv  is the file generated from Covid_Prediction.ipynb
